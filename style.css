@@ -1,0 +1,17 @@
+.navbar-brand img{
+    width: 65px;
+}
+.bg-aqua{
+    background-color: #9DD0C7;
+}
+#navbarDropdownMenuLink{
+    color: black;
+    font-size: 25px;
+}
+.banner-text{
+    position: absolute;
+    top: 50%;
+    left: 44%;
+    color: white;
+    z-index: 1;
+}
